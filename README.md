@@ -1,7 +1,5 @@
 # Skribbl.io Clone - Real-Time Multiplayer Drawing Game
 
-**Live Demo Video:**
-https://youtu.be/dsrWwDutcLw?si=jVqoMPMQlV90A0oH
 
 A full-stack, real-time multiplayer drawing and guessing game inspired by Skribbl.io. The project implements a strict turn-based game loop, real-time canvas synchronization, time-based scoring, and a custom Object-Oriented game engine.
 
